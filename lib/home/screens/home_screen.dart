@@ -65,6 +65,7 @@ class HomeScreen extends StatelessWidget {
         body:
             // bloc builder
             // bloc listener
+            
             // bloc consumer
             
             BlocConsumer<TasksCubit,TasksStates>(
